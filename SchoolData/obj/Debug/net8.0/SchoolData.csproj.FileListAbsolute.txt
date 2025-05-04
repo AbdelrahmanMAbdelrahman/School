@@ -1,0 +1,12 @@
+C:\Users\f\source\repos\SchoolData\bin\Debug\net8.0\SchoolData.deps.json
+C:\Users\f\source\repos\SchoolData\bin\Debug\net8.0\SchoolData.dll
+C:\Users\f\source\repos\SchoolData\bin\Debug\net8.0\SchoolData.pdb
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.AssemblyInfoInputs.cache
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.AssemblyInfo.cs
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.dll
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\refint\SchoolData.dll
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\SchoolData.pdb
+C:\Users\f\source\repos\SchoolData\obj\Debug\net8.0\ref\SchoolData.dll
