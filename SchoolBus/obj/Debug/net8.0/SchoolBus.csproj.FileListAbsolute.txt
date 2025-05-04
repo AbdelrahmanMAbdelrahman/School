@@ -1,0 +1,15 @@
+C:\Users\f\source\repos\SchoolBus\bin\Debug\net8.0\SchoolBus.deps.json
+C:\Users\f\source\repos\SchoolBus\bin\Debug\net8.0\SchoolBus.dll
+C:\Users\f\source\repos\SchoolBus\bin\Debug\net8.0\SchoolBus.pdb
+C:\Users\f\source\repos\SchoolBus\bin\Debug\net8.0\SchoolData.dll
+C:\Users\f\source\repos\SchoolBus\bin\Debug\net8.0\SchoolData.pdb
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.AssemblyInfoInputs.cache
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.AssemblyInfo.cs
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.csproj.Up2Date
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.dll
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\refint\SchoolBus.dll
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\SchoolBus.pdb
+C:\Users\f\source\repos\SchoolBus\obj\Debug\net8.0\ref\SchoolBus.dll
